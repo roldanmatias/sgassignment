@@ -19,7 +19,7 @@ npx cap sync
 
 ## Screenshots
 
-![App Screenshot]([https://github.com/roldanmatias/sgassignment/screenshots/screenshot1.png](https://github.com/roldanmatias/sgassignment/blob/main/screenshots/screenshot1.png))
+![App Screenshot](https://github.com/roldanmatias/sgassignment/blob/main/screenshots/screenshot1.png)
 
 ## Architecture
 
